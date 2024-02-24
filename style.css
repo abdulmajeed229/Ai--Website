@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+height: 100vh;
+   background-image: url(https://www.simplilearn.com/ice9/free_resources_article_thumb/Types_of_Artificial_Intelligence.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.navbar a{
+    color: white;
+    margin-left: 40px;
+    margin-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.navbar a:hover{
+    color: white;
+}
+.btn{
+color: white !important;
+border: 1px solid white !important;
+margin-top: 0px;
+}
+.navbar .navbar-toggler ,  span{
+color: white !important;
+}
+.center{
+height: 90vh;
+border: none;
+
+}
+.center h1{
+padding-top: 200px;
+font-size: 60px;
+color: white;
+}
+.center p{
+font-size: 20px;
+padding-top: 5px;
+color: white;
+}
+.center button{
+height:44px;
+margin-top: 10px;
+width: 140px;
+}
+.sec-h1{
+height: 24vh;
+
+}
+.sec-h1 p{
+padding-top: 20px;
+color: black;
+font-size: 18px;
+}
+.sec-h1 h1{
+font-size: 50px;
+}
+.card{
+height: 55vh;
+border: none;
+
+}
+.cards{
+height: 50vh; 
+margin: px;
+}
+.cards img{
+padding-top: 80px;
+}
+.cards h2{
+color: black;
+padding-top: 10px;
+}
+.cards p{
+color: black;
+}
+.sect-3{
+min-height: 25vh;
+background-color: rgb(41, 19, 63);
+}
+.abc{
+    height: 25vh;
+}
+.abc h2{
+    font-size: 45px;
+    padding-left: 20px;
+    color: white;
+}
+.abc p{
+    font-size: 20px;
+    padding-top: 20px;
+    color: rgb(248, 247, 248) ;
+    padding-left: 20px;
+}
+.abc p{
+font-size: 20px;
+}
+.good{
+    height: 30vh;
+    background-color: blueviolet;
+    
+}
+.wow{
+    min-height: 40vh;
+    border: none;
+    background-color: rgb(41, 19, 63); 
+}
+.wow-1{
+    height: 30vh;
+ border: 1px solid rgb(158, 133, 248);
+    text-align: center;
+}
+.wow-1 h3{
+    color: white;
+    padding-top: 30px;
+}
+.wow-1 img{
+    padding-top: 30px;
+}
